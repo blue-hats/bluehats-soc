@@ -1,0 +1,21 @@
+#+title: Idées de contributions pour BlueHats Semester of Code 2022
+
+Ce dépôt collecte des idées de contributions à des logiciels libres
+utilisés dans le service public, contributions qui seront faites par
+six élèves ingénieurs de Centrale-Supélec entre mars et août 2022.
+
+*Tous les agents publics peuvent proposer des idées* : soit en ouvrant
+[[https://github.com/blue-hats/bluehats-soc/issues][une issue]], soit en proposant une [[https://github.com/blue-hats/bluehats-soc/pulls][pull request]], soit en écrivant à
+[[mailto:logiciels-libres@data.gouv.fr][logiciels-libres@data.gouv.fr]].
+
+Nous visons 12 défis à proposer aux étudiants qui candidateront et
+passeront devant un jury début décembre 2021.
+
+** Idées en cours d'élaboration
+
+** Licence
+
+Ce dépôt est une publication DINUM, 20 avenue de Ségur, 75019, publié
+sous [[file:LICENSE.txt][licence Ouverte 2.0]].  En contribuant à ce dépôt, vous acceptez
+les termes de cette licence.
+
