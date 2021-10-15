@@ -13,6 +13,9 @@ passeront devant un jury début décembre 2021.
 
 ** Idées en cours d'élaboration
 
+- Contribuer à un logiciel ou des briques libres pour permettre
+  d'utiliser un captch entièrement libre.
+
 ** Licence
 
 Ce dépôt est une publication DINUM, 20 avenue de Ségur, 75019, publié
