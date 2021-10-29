@@ -4,17 +4,14 @@ Ce dépôt collecte des idées de contributions à des logiciels libres
 utilisés dans le service public, contributions qui seront faites par
 six élèves ingénieurs de Centrale-Supélec entre mars et août 2022.
 
-*Tous les agents publics peuvent proposer des idées* : soit en ouvrant
-[[https://github.com/blue-hats/bluehats-soc/issues][une issue]], soit en proposant une [[https://github.com/blue-hats/bluehats-soc/pulls][pull request]], soit en écrivant à
-[[mailto:logiciels-libres@data.gouv.fr][logiciels-libres@data.gouv.fr]].
+Tous les agents publics peuvent proposer des idées via [[https://framaforms.org/bluehats-semester-of-code-depot-didee-devolution-de-logiciels-libres-1633524470][ce formulaire]]
+*jusqu'au 3 novembre 23h59*.
+
+Pour toute question : [[mailto:logiciels-libres@data.gouv.fr][logiciels-libres@data.gouv.fr]].
 
 Nous visons 12 défis à proposer aux étudiants qui candidateront et
-passeront devant un jury début décembre 2021.
-
-** Idées en cours d'élaboration
-
-- Contribuer à un logiciel ou des briques libres pour permettre
-  d'utiliser un captch entièrement libre.
+passeront devant un jury début décembre 2021, et nous choisiront les 
+6 meilleures candidatures.
 
 ** Licence
 
