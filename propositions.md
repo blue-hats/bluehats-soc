@@ -118,3 +118,33 @@ ou de toute autre idée discutée avec l'équipe de développement.
 
 # OpenTermsArchive
 
+**Site du logiciel** : [opentermsarchive.org](https://opentermsarchive.org/)
+
+**Son code source** : [github.com/ambanum/OpenTermsArchive](https://github.com/ambanum/OpenTermsArchive)
+
+**Langages de programmation** : Javascript
+
+**Ministère utilisateur et porteur de la contribution** : Ministère de l'Europe et des affaires étrangères
+
+**Description du logiciel et de son usage dans l'administration** : OpenTermsArchive est utilisé pour suivre les stratégies des grandes plateformes
+numériques et pour identifier des leviers diplomatiques dans les échanges avec
+elles. Au sein du PEReN (Ministère des finances), OpenTermsArchive est utilisé
+pour suivre les évolutions des conditions d'utilisation des fournisseurs de
+service par type d'industrie (en particulier plateformes de mise en relation).
+Au sein de l'autorité de la concurrence, les agents en charges d'enquêtes
+peuvent accéder aux conditions d'utilisation des fournisseurs de services
+à toute date afin de mener des investigations détaillées.
+
+**Idée de contribution** : L'objectif du stage sera de maintenir et de
+compléter les descriptions de services qui sont suivis et archivés dans
+OpenTermsArchive. En effet, au fur et à mesure des évolutions des documents,
+ils peuvent être déplacés vers d'autres URLs, leur contenu peut être modifié et
+il faut les filtrer d'une nouvelle manière pour éviter du bruit dans les
+changements détectés. Toute liberté sera donnée pour expérimenter des moyens
+d'outiller et d'automatiser ces mises à jour cruciales pour le bon
+fonctionnement du service. Ces expérimentations seront co-construites et
+évaluées par l'équipe coeur, qui pourra le cas échéant allouer des ressources
+afin d'aider la personne en stage à industrialiser la solution et la mettre
+entre les mains d'un grand nombre d’utilisateurs.
+
+
