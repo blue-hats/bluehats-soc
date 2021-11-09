@@ -109,9 +109,19 @@ ou de toute autre idée discutée avec l'équipe de développement.
 
 # Platform manager
 
+**Site du logiciel** : [opentermsarchive.org](https://opentermsarchive.org/)
+
+**Son code source** : [pfmanager.loria.fr](https://pfmanager.loria.fr)
+
+**Langages de programmation** : 
+
+**Porteur de la contribution** : CNRS
+
+**Description du logiciel et de son usage dans l'administration** : Au sein du laboratoire Loria (UMR 7503 CNRS / Inria / Université de Lorraine), nous utilisons plusieurs plateformes en soutien de la recherche. Nous avons créé l’outil 'Platform manager' pour nous aider à gérer ces installations: projets en cours, équipements, utilisateurs
+
+**Idée de contribution** : L'objectif du stage sera d'apporter deux fonctionnalités à ce logiciel pour 1) l'ajout d'un module de réservation d'équipement avec calendrier, 2) la génération automatique de pages wiki Gitlab par projet.
 
 # Esup-Pod
-
 
 # APiLos
 
