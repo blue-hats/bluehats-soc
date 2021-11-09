@@ -1,6 +1,3 @@
-BlueHats Semester of Code
-====
-
 Ce dépôt collecte des idées de contributions à des logiciels libres
 utilisés dans le service public, contributions qui seront faites par
 six élèves ingénieurs de Centrale-Supélec entre mars et août 2022.
@@ -19,7 +16,7 @@ meilleures candidatures.
 # Propositions
 
 Vous trouverez les propositions (en cours de rédaction) [sur cette
-page](propositions.md).
+page](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.org).
 
 
 # Licence

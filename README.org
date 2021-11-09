@@ -19,7 +19,7 @@ meilleures candidatures.
 
 ** Propositions
 
-Vous trouverez les propositions (en cours de rédaction) [[file:propositions.org][sur cette
+Vous trouverez les propositions (en cours de rédaction) [[https://github.com/blue-hats/bluehats-soc/blob/main/propositions.org][sur cette
 page]].
 
 ** Licence
