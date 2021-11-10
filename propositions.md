@@ -100,6 +100,17 @@ ou de toute autre idée discutée avec l'équipe de développement.
 
 # ElabFTW
 
+**Site du logiciel** : [ElabFTW](https://www.elabftw.net/)
+
+**Son code source** : [github.com/elabftw/elabftw](https://github.com/elabftw/elabftw)
+
+**Langages de programmation** : PHP/Javascript/HTML
+
+**Ministère utilisateur et porteur de la contribution** : INRAE
+
+**Description du logiciel et de son usage dans l'administration** : L'outil est utilisé dans plusieurs établissements publics ainsi que des laboratoires Européens en tnat que cahier de laboratoire électronique.
+
+**Idée de contribution** : L'objet du stage serait de travailler sur un interfaçage avec un appareil mobile (liseuse, tablette, ..) avec une possibilité de travailler sans connexion internet. 
 
 # Mercator
 
