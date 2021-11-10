@@ -114,7 +114,7 @@ ou de toute autre idée discutée avec l'équipe de développement.
 **Description du logiciel et de son usage dans l'administration** : Mercator permet d'élaborer une cartographie d'un système d'information afin d'être capable de mieux anticiper et faire face aux problèmes de sécurité du système d'information en question. 
 
 
-**Idée de contribution** :
+**Idée de contribution** : **A DISCUTER**
 
 
 # Libre office : Calc, Writer et Impress
