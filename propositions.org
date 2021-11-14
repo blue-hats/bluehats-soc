@@ -78,6 +78,23 @@ ou de toute autre idée discutée avec l'équipe de développement.
 
 * JabRef
 
+*Site du logiciel* : [[https://www.jabref.org][www.jabref.org]]
+*Son code source* : [[https://github.com/JabRef/jabref][github.com/JabRef/jabref]] - voir aussi [[https://devdocs.jabref.org/contributing][cette page]] pour des explications sur les façons de contribuer.
+
+*Langages de programmation* : Java
+
+*Ministère utilisateur et porteur de la contribution* : Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation.
+ 
+*Description du logiciel et de son usage dans l’administration :* JabRef is a leading bibliographic management software. It helps students, researchers and engineers to organize their articles and cite  them in new publications. It is used in research institutes and  universities in France and around the world (some of your university  teachers are probably using JabRef). And JabRef can help you write your internship report!
+
+*Idées de contribution :* (The JabRef's development team will help you with your developement
+- enable Word to be used with JabRef -- as implementation that means, 
+implementing a GraphQL server in JabRef so that our 
+JabRef-online-Word-Plugin ([[https://github.com/JabRef/JabRef-Word-Addin][github.com/JabRef/JabRef-Word-Addin]]) can also work with JabRef ([[https://github.com/JabRef/jabref/issues/6904][github.com/JabRef/jabref/issues/6904]]).
+- add MindMapping-Support to JabRef. This would be an awesome feature ([[https://github.com/koppor/jabref/issues/433][github.com/koppor/jabref/issues/433]])
+- add lucence search to JabRef itself. Completely rewrite the search of JabRef so that it is a) faster and b) also provides fuzzy search results
+- browse our candidates for university projects at [[https://github.com/JabRef/jabref/projects/9][github.com/JabRef/jabref/projects/9]] and choose the ones you like.
+
 * GDL : gnudatalanguage
 
 * GlitchTip
