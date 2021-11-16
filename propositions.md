@@ -79,17 +79,30 @@ ou de toute autre idée discutée avec l'équipe de développement.
 
 # Assistant RGAA
 
-**Site du logiciel** :
+**Site du logiciel** : <https://github.com/empreinte-digitale/assistant-rgaa>
 
-**Son code source** :
+**Son code source** : <https://github.com/empreinte-digitale/assistant-rgaa>
 
-**Langages de programmation** :
+**Langages de programmation** : Javascript (React.js, Lodash, Babel)
 
-**Ministère utilisateur et porteur de la contribution** : 
+**Ministère utilisateur et porteur de la contribution** : DINUM.
 
 **Description du logiciel et de son usage dans l'administration** :
+L'assistant RGAA est une extension pour Firefox et Chrome utilisé par
+les auditeurs du RGAA (Référentiel général d'amélioration de
+l'accessibilité) et par les développeurs de sites et d'applications
+web.  À ce jour, une dizaine d'agents publics l'utilisent au
+quotidien, et deux agents y contribuent déjà.
 
-**Idée de contribution** : 
+**Idée de contribution** : L'idée est de faciliter la réalisation des
+audits RGAA.  L’assistant n’est pour l’instant qu’un guide pas-à-pas
+dans la menée d’un audit. Il pourrait permettre de stocker les
+résultats et de les exporter, par exemple vers un outil de rapport.
+De même il pourrait importer des résultats d’audit partiel réalisés
+par des outils automatiques tels que Tanaguru ou Asqatasun.  La DINUM
+travaille déjà sur cette contribution, notamment en explorant le
+format standardisé du W3C pour les rapports d’audits WCAG-EM-Report
+Tool.
 
 
 # JabRef
