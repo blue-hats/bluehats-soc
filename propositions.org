@@ -76,6 +76,18 @@ ou de toute autre idée discutée avec l'équipe de développement.
 
 * Assistant RGAA
 
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
+
 * JabRef
 
 *Site du logiciel* : [[https://www.jabref.org][www.jabref.org]]
@@ -98,24 +110,169 @@ ou de toute autre idée discutée avec l'équipe de développement.
 
 * GDL : gnudatalanguage
 
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
+
 * GlitchTip
+
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
 
 * SEntry
 
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
+
 * Openboard
+
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
 
 * Spoon
 
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
+
 * ElabFTW
+
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
 
 * Mercator
 
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
+
 * Libre office : Calc, Writer et Impress
+
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
 
 * Platform manager
 
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
+
 * Esup-Pod
+
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
 
 * APiLos
 
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
+
 * OpenTermsArchive
+
+*Site du logiciel* :
+
+*Son code source* :
+
+*Langages de programmation* :
+
+*Ministère utilisateur et porteur de la contribution* : 
+
+*Description du logiciel et de son usage dans l'administration* :
+
+*Idée de contribution* : 
+
