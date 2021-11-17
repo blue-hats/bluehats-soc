@@ -157,6 +157,7 @@ logiciel libre conforme aux recommandations de l'Agence nationale de
 la sécurité des systèmes d'information (ANSSI) en matière de
 /configuration management database/ (CMDB).
 
+
 * GlitchTip
 
 *Site du logiciel* : [[https://glitchtip.com/][glitchtip.com]]
@@ -214,6 +215,21 @@ dé-dockerisation serait très utile pour les ministères régaliens.
 
 
 * À préciser
+
+* Nix
+
+*Site du logiciel* : [[https://nixos.org/][nixos.org]]
+
+*Son code source* : [[https://github.com/NixOS/nixpkgs][github.com/NixOS/nixpkgs]]
+
+*Langage de programmation* : Nix expression language
+
+#+markdown: [<img src="images/nix.png" height="300">](images/nix.png)
+
+*Ministères utilisateurs et porteurs de la demande* : Ministère de la justice et Ministère de l'Économie, des Finances et de la Relance, pôle d'expertise et de régulation numérique - [[https://www.peren.gouv.fr/][PEReN]].
+
+*Description du logiciel et de son besoin dans l'administration* : Les deux ministères demandeurs ont besoin de faire tourner des logiciels dans des environnements isolés du système du système d'exploitation hote et avec une configuration maitrisée. Les deux cas d'usage remontés concernent les logiciels [[https://sentry.io][sentry]] ou son alternative [[https://glitchtip.com/][glitchtip]] et qui sont des logiciels pour le suivi d'erreurs et performances d'applications en production. Les installations actuellement supportées pour un hébergement souverain dans un environnement maitrisé reposent sur Docker qui pose des difficultés de sécurité pour pouvoir être adoptées dans les administrations. L'objet de ce stage est de proposer un /packaging/ alternatif, reposant cette fois-ci sur le gestionnaire de paquet Nix. Idéalement, nous pourrions aussi voir comment brancher GlitchTip sur des systèmes d'authentification unique (SSO) classiques comme
+[[https://lemonldap-ng.org/welcome/][LemonLDAP]], ainsi qu'ajouter des tutoriels en français.  Le ministère porteur de la contribution a déjà un agent public qui contribue à GlitchTip, facilitant ainsi le lien avec le projet et l'intégration des contributions.
 
 ** Openboard
 
