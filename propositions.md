@@ -1,6 +1,6 @@
+# BSOC: Proposition de contributions à des logiciels libres
 
-
-# Peertube
+## Peertube
 
 **Site du logiciel** : [joinpeertube.org](https://joinpeertube.org/) ([lien SILL](https://sill.etalab.gouv.fr/fr/software?id=197))
 
@@ -28,7 +28,7 @@ ressources vidéos dans les formations portées par les ministères
 impliqués dans Mentor.
 
 
-# Thunderbird
+## Thunderbird
 
 **Site du logiciel** : [thunderbird.net](https://www.thunderbird.net/fr/)
 
@@ -56,7 +56,7 @@ répondre à la question : « Est-ce que le système m'a bien envoyé un
 email par jour pour me dire que le mail attendu n'est pas arrivé ? »
 
 
-# JabRef
+## JabRef
 
 **Site du logiciel** : [www.jabref.org](https://www.jabref.org)
 
@@ -103,7 +103,7 @@ vos développements*.
     [voir ce projet](https://github.com/JabRef/jabref/projects/9) et choisissez celles qui vous plaisent.
 
 
-# Assistant RGAA
+## Assistant RGAA
 
 **Site du logiciel** : [empreinte-digitale/assistant-rgaa](https://github.com/empreinte-digitale/assistant-rgaa)
 
@@ -132,7 +132,7 @@ format standardisé du W3C pour les rapports d’audits WCAG-EM-Report
 Tool.
 
 
-# Mercator
+## Mercator
 
 **Site du logiciel** : [Mercator](https://github.com/dbarzin/mercator)
 
@@ -162,7 +162,7 @@ la sécurité des systèmes d'information (ANSSI) en matière de
 *configuration management database* (CMDB).
 
 
-# Nix
+## Nix
 
 **Site du logiciel** : [nixos.org](https://nixos.org/)
 
@@ -195,7 +195,7 @@ public qui contribue à GlitchTip, facilitant ainsi le lien avec le
 projet et l'intégration des contributions.
 
 
-# Spoon
+## Spoon
 
 **Site du logiciel** : [spoon.gforge.inria.fr](https://spoon.gforge.inria.fr)
 
@@ -224,7 +224,7 @@ correction automatisée de bugs et la réparation automatisée de
 programmes.
 
 
-# Esup-Pod
+## Esup-Pod
 
 **Site du logiciel** : [www.esup-portail.org](https://www.esup-portail.org/wiki/display/ES)
 
@@ -253,7 +253,7 @@ L'ensemble permettrait à chaque établissement d'avoir une solution de
 webinaire en interne, facile à installer et à utiliser.
 
 
-# Unitex/GramLab
+## Unitex/GramLab
 
 **Site du logiciel** : [unitexgramlab.org](https://unitexgramlab.org/fr)
 
