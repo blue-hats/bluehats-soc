@@ -172,6 +172,27 @@ la sécurité des systèmes d'information (ANSSI) en matière de
 *Description du logiciel et de son besoin dans l'administration* : Les deux ministères demandeurs ont besoin de faire tourner des logiciels dans des environnements isolés du système du système d'exploitation hote et avec une configuration maitrisée. Les deux cas d'usage remontés concernent les logiciels [[https://sentry.io][sentry]] ou son alternative [[https://glitchtip.com/][glitchtip]] et qui sont des logiciels pour le suivi d'erreurs et performances d'applications en production. Les installations actuellement supportées pour un hébergement souverain dans un environnement maitrisé reposent sur Docker qui pose des difficultés de sécurité pour pouvoir être adoptées dans les administrations. L'objet de ce stage est de proposer un /packaging/ alternatif, reposant cette fois-ci sur le gestionnaire de paquet Nix. Idéalement, nous pourrions aussi voir comment brancher GlitchTip sur des systèmes d'authentification unique (SSO) classiques comme
 [[https://lemonldap-ng.org/welcome/][LemonLDAP]], ainsi qu'ajouter des tutoriels en français.  Le ministère porteur de la contribution a déjà un agent public qui contribue à GlitchTip, facilitant ainsi le lien avec le projet et l'intégration des contributions.
 
+* Platform manager
+
+*Site du logiciel* : 
+
+*Son code source* : [[https://gitlab.inria.fr/sisr/pfmanager][gitlab.inria.fr/sisr/pfmanager]]
+
+*Langages de programmation* : PHP
+
+*Ministère utilisateur et porteur de la contribution* : MESRI/CNRS
+
+*Description du logiciel et de son usage dans l'administration* : Au
+sein du laboratoire Loria (UMR 7503 CNRS / Inria / Université de
+Lorraine), nous utilisons plusieurs plateformes en soutien de la
+recherche. Nous avons créé l’outil 'Platform manager' pour nous aider
+à gérer ces installations: projets en cours, équipements, utilisateurs
+
+*Idée de contribution* : L'objectif du stage sera d'apporter deux
+fonctionnalités à ce logiciel pour 1) l'ajout d'un module de
+réservation d'équipement avec calendrier, 2) la génération automatique
+de pages wiki Gitlab par projet.
+
 
 * À préciser
 
@@ -252,27 +273,6 @@ Le logiciel openboard est plutôt orienté pour le primaire actuellement.
 Intégrer un object formule mathématique utilisant la syntaxe LaTex pour faciliter l'utilisation du logiciel dans le secondaire et le supérieur.
 
 *A discuter* : le logiciel xournal++ que le demandeur mentionne semble bien répondre au problème. Openboard ne semble plus tellement maintenu (beaucoup de PR, dernier commit il y a 7 mois) contrairement à xournal++ qui donc dispose de la fonctionnalité et dont la communauté est plus active. 
-
-** Platform manager
-
-*Site du logiciel* : 
-
-*Son code source* : [[https://gitlab.inria.fr/sisr/pfmanager][gitlab.inria.fr/sisr/pfmanager]]
-
-*Langages de programmation* : PHP
-
-*Ministère utilisateur et porteur de la contribution* : MESRI/CNRS
-
-*Description du logiciel et de son usage dans l'administration* : Au
-sein du laboratoire Loria (UMR 7503 CNRS / Inria / Université de
-Lorraine), nous utilisons plusieurs plateformes en soutien de la
-recherche. Nous avons créé l’outil 'Platform manager' pour nous aider
-à gérer ces installations: projets en cours, équipements, utilisateurs
-
-*Idée de contribution* : L'objectif du stage sera d'apporter deux
-fonctionnalités à ce logiciel pour 1) l'ajout d'un module de
-réservation d'équipement avec calendrier, 2) la génération automatique
-de pages wiki Gitlab par projet.
 
 ** Libre office : Writer, Calc et Impress
 
