@@ -4,9 +4,9 @@
 
 ## Platform manager
 
-**Site du logiciel** : ?
+**Site du logiciel** : 
 
-**Son code source** : [gitlab.inria.fr/sisr/pfmanager](https://gitlab.inria.fr/sisr/pfmanager)
+**Son code source** : [gitlab.inria.fr/sisr-public/pfmanager](https://gitlab.inria.fr/sisr-public/pfmanager)
 
 **Langages de programmation** : PHP
 
