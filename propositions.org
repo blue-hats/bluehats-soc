@@ -257,9 +257,9 @@ Intégrer un object formule mathématique utilisant la syntaxe LaTex pour facili
 
 *Site du logiciel* : 
 
-*Son code source* : [[https://pfmanager.loria.fr][pfmanager.loria.fr]]
+*Son code source* : [[https://gitlab.inria.fr/sisr/pfmanager][gitlab.inria.fr/sisr/pfmanager]]
 
-*Langages de programmation* : 
+*Langages de programmation* : PHP
 
 *Ministère utilisateur et porteur de la contribution* : MESRI/CNRS
 
