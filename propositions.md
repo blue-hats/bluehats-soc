@@ -37,6 +37,8 @@ pour des explications sur les façons de contribuer.
 
 **Langages de programmation** : C++, Javascript.
 
+[<img style="float:right" src="images/thunderbird.png" width="400" height="300">](images/peertube.png)
+
 **Ministère utilisateur et porteur de la contribution** : Ministère de
 l'Éducation nationale, de la Jeunesse et des Sports et ministère de
 l'Enseignement supérieur, de la Recherche et de l'Innovation.
@@ -62,6 +64,8 @@ email par jour pour me dire que le mail attendu n'est pas arrivé ? »
 pour des explications sur les façons de contribuer.
 
 **Langages de programmation** : Java.
+
+[<img style="float:right" src="images/jabref.png" width="400" height="300">](images/peertube.png)
 
 **Ministère utilisateur et porteur de la contribution** : Ministère de
 l’Enseignement supérieur, de la Recherche et de l’Innovation.
@@ -139,6 +143,8 @@ Tool.
 
 **Langages de programmation** : HTML, PHP.
 
+[<img style="float:right" src="images/mercator.png" width="400" height="300">](images/peertube.png)
+
 **Ministère utilisateur et porteur de la contribution** : Direction
 générale de l'Aviation civile, Direction technique de l'innovation.
 
@@ -167,6 +173,8 @@ la sécurité des systèmes d'information (ANSSI) en matière de
 
 **Langages de programmation** : Python, Javascript.
 
+[<img style="float:right" src="images/glitchtip.webp" width="400" height="300">](images/peertube.png)
+
 **Ministère utilisateur et porteur de la contribution** : Ministère de la
 Justice.
 
@@ -193,6 +201,8 @@ des contributions.
 **Son code source** : [github.com/getsentry/sentry](https://github.com/getsentry/sentry)
 
 **Langages de programmation** : Python, Javascript.
+
+[<img style="float:right" src="images/sentry.webp" width="400" height="300">](images/peertube.png)
 
 **Ministère utilisateur et porteur de la contribution** : Ministère de
 l'Économie, des Finances et de la Relance, pôle d'expertise et de
