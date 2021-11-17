@@ -26,6 +26,17 @@ candidatures.
 Retrouverez les propositions de stages contributifs [sur cette
 page](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md).
 
+- [Assistant RGAA : améliorer l'accessibilité des sites web](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#assistant-rgaa--am%C3%A9liorer-laccessibilit%C3%A9-des-sites-web)
+- [Esup-Pod : contribuer à une plateforme de diffusion de vidéos](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#esup-pod--contribuer-%C3%A0-une-plateforme-de-diffusion-de-vid%C3%A9os)
+- [GnuDataLanguage : s'immerger dans un logiciel pour l'astronomie professionnelle](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#gnudatalanguage--simmerger-dans-un-logiciel-pour-lastronomie-professionnelle)
+- [JabRef : contribuer à un logiciel de gestion bibliographique de premier plan](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#jabref--contribuer-%C3%A0-un-logiciel-de-gestion-bibliographique-de-premier-plan)
+- [Mercator : améliorer la cartographie des systèmes d'information](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#mercator--am%C3%A9liorer-la-cartographie-des-syst%C3%A8mes-dinformation)
+- [Nix : faciliter le déploiement de sentry.io et de GlitchTip](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#nix--faciliter-le-d%C3%A9ploiement-de-sentryio-et-de-glitchtip)
+- [Peertube : contribuer à une plateforme de diffusion de vidéos](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#peertube--contribuer-%C3%A0-une-plateforme-de-diffusion-de-vid%C3%A9os)
+- [Spoon : contribuer à un logiciel phare dans l'analyse des codes sources](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#spoon--contribuer-%C3%A0-un-logiciel-phare-dans-lanalyse-des-codes-sources)
+- [Thunderbird : contribuer au client de messagerie de Mozilla](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#thunderbird--contribuer-au-client-de-messagerie-de-mozilla)
+- [Unitex/GramLab : contribuer à un outil d'exploration de corpus de textes](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#unitexgramlab--contribuer-%C3%A0-un-outil-dexploration-de-corpus-de-textes)
+
 ## Qu'est-ce que BlueHats 🧢 ?
 
 Voir la page de présentation BlueHats sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/bluehats/).
