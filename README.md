@@ -16,7 +16,7 @@ meilleures candidatures.
 # Propositions
 
 Vous trouverez les propositions (en cours de rédaction) [sur cette
-page](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.org).
+page](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md).
 
 
 # Licence
