@@ -1,29 +1,4 @@
-
-# Projets non retenus
-
-
-## Platform manager
-
-**Site du logiciel** : 
-
-**Son code source** : [gitlab.inria.fr/sisr-public/pfmanager](https://gitlab.inria.fr/sisr-public/pfmanager)
-
-**Langages de programmation** : PHP
-
-**Ministère utilisateur et porteur de la contribution** : MESRI/CNRS
-
-**Description du logiciel et de son usage dans l'administration** : Au
-sein du laboratoire Loria (UMR 7503 CNRS / Inria / Université de
-Lorraine), nous utilisons plusieurs plateformes en soutien de la
-recherche. Nous avons créé l’outil 'Platform manager' pour nous aider
-à gérer ces installations: projets en cours, équipements, utilisateurs
-
-**Idée de contribution** : L'objectif du stage sera d'apporter deux
-fonctionnalités à ce logiciel pour 1) l'ajout d'un module de
-réservation d'équipement avec calendrier, 2) la génération automatique
-de pages wiki Gitlab par projet.
-
-
+# Projets fusionnés
 ## GlitchTip
 
 **Site du logiciel** : [glitchtip.com](https://glitchtip.com/)
@@ -81,6 +56,31 @@ Un *repackaging* "administration publique" de cet outil, incluant une
 dé-dockerisation serait très utile pour les ministères régaliens.
 
 
+# Projets non retenus
+
+
+## Platform manager
+
+**Site du logiciel** : 
+
+**Son code source** : [gitlab.inria.fr/sisr-public/pfmanager](https://gitlab.inria.fr/sisr-public/pfmanager)
+
+**Langages de programmation** : PHP
+
+**Ministère utilisateur et porteur de la contribution** : MESRI/CNRS
+
+**Description du logiciel et de son usage dans l'administration** : Au
+sein du laboratoire Loria (UMR 7503 CNRS / Inria / Université de
+Lorraine), nous utilisons plusieurs plateformes en soutien de la
+recherche. Nous avons créé l’outil 'Platform manager' pour nous aider
+à gérer ces installations: projets en cours, équipements, utilisateurs
+
+**Idée de contribution** : L'objectif du stage sera d'apporter deux
+fonctionnalités à ce logiciel pour 1) l'ajout d'un module de
+réservation d'équipement avec calendrier, 2) la génération automatique
+de pages wiki Gitlab par projet.
+
+
 ## Openboard
 
 **Site du logiciel** : [openboard.ch](https://openboard.ch/)
@@ -125,8 +125,6 @@ possibilité de travailler sans connexion internet.
 
 
 # Projets d'administrations centrales
-
-
 ## APiLos
 
 **Site du logiciel** : <https://beta.gouv.fr/startups/apilos.html>
