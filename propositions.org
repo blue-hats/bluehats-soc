@@ -212,8 +212,28 @@ la seule méthode d'installation officiellement supportée est Docker,
 Un /repackaging/ "administration publique" de cet outil, incluant une
 dé-dockerisation serait très utile pour les ministères régaliens.
 
+
 * À préciser
 
+** Openboard
+
+*Site du logiciel* : [[https://openboard.ch/][openboard.ch]]
+
+*Son code source* : [[https://github.com/OpenBoard-org/OpenBoard][github.com/OpenBoard-org/OpenBoard]]
+
+*Langages de programmation* : C++/Qt
+
+#+markdown: [<img src="images/openboard.jpg" height="300">](images/openboard.jpg)
+
+*Ministère utilisateur et porteur de la contribution* : Ministère de l'éducation nationale
+
+*Description du logiciel et de son usage dans l'administration* :
+
+Le logiciel openboard est plutôt orienté pour le primaire actuellement. 
+
+*Idée de contribution* : 
+
+Intégrer un object formule mathématique utilisant la syntaxe LaTex pour faciliter l'utilisation du logiciel dans le secondaire et le supérieur.
 ** Platform manager
 
 *Site du logiciel* : 
@@ -236,20 +256,6 @@ réservation d'équipement avec calendrier, 2) la génération automatique
 de pages wiki Gitlab par projet.
 
 ** Libre office : Writer, Calc et Impress
-
-*Site du logiciel* :
-
-*Son code source* :
-
-*Langages de programmation* :
-
-*Ministère utilisateur et porteur de la contribution* : 
-
-*Description du logiciel et de son usage dans l'administration* :
-
-*Idée de contribution* : 
-
-** Openboard
 
 *Site du logiciel* :
 
