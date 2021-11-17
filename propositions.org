@@ -84,13 +84,11 @@ vos développements/.
 
 - Permettre à Word d'être utilisé avec JabRef -- au niveau de
   l'implémentation, cela veut dire implémenter un serveur GraphQL dans
-  JabRef afin que le greffon JabRef-online-Word
-  ([[https://github.com/JabRef/JabRef-Word-Addin][github.com/JabRef/JabRef-Word-Addin]]) puisse aussi fonctionner avec
-  JabRef ([[https://github.com/JabRef/jabref/issues/6904][github.com/JabRef/jabref/issues/6904]]).
+  JabRef afin que le greffon [[https://github.com/JabRef/JabRef-Word-Addin][JabRef-Word-Addin]] puisse aussi
+  fonctionner avec JabRef ([[https://github.com/JabRef/jabref/issues/6904][voir cette issue]]).
 
 - Ajouter la possibilité de faire du Mind Mapping avec JabRef. Cela
-  serait une fonctionnalité très intéressante
-  ([[https://github.com/koppor/jabref/issues/433][github.com/koppor/jabref/issues/433]]).
+  serait une fonctionnalité très intéressante ([[https://github.com/koppor/jabref/issues/433][voir cette issue]]).
 
 - Utiliser Apache Lucene pour la recherche d'entrées bibliographiques
   dans la base de données courante. Apache Lucene est un moteur
@@ -100,8 +98,7 @@ vos développements/.
   utilisée pour les entrées bibliographiques.
 
 - Parcourez notre liste de tâches pour les projets universitaires sur
-  [[https://github.com/JabRef/jabref/projects/9][github.com/JabRef/jabref/projects/9]] et choisissez celles qui vous
-  plaisent.
+  [[https://github.com/JabRef/jabref/projects/9][voir ce projet]] et choisissez celles qui vous plaisent.
 
 * Assistant RGAA
 
