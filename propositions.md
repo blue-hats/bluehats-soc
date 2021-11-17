@@ -162,7 +162,169 @@ la sécurité des systèmes d'information (ANSSI) en matière de
 *configuration management database* (CMDB).
 
 
-# GlitchTip
+# Nix
+
+**Site du logiciel** : [nixos.org](https://nixos.org/)
+
+**Son code source** : [github.com/NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+
+**Langage de programmation** : Nix expression language
+
+[<img src="images/nix.png" height="300">](images/nix.png)
+
+**Ministères utilisateurs et porteurs de la demande** : Ministère de la
+justice et Ministère de l'Économie, des Finances et de la Relance,
+pôle d'expertise et de régulation numérique - [PEReN](https://www.peren.gouv.fr/).
+
+**Description du logiciel et de son besoin dans l'administration** : Les
+deux ministères demandeurs ont besoin de faire tourner des logiciels
+dans des environnements isolés du système du système d'exploitation
+hote et avec une configuration maitrisée. Les deux cas d'usage
+remontés concernent les logiciels [sentry](https://sentry.io) ou son alternative [glitchtip](https://glitchtip.com/)
+et qui sont des logiciels pour le suivi d'erreurs et performances
+d'applications en production. Les installations actuellement
+supportées pour un hébergement souverain dans un environnement
+maitrisé reposent sur Docker qui pose des difficultés de sécurité pour
+pouvoir être adoptées dans les administrations. L'objet de ce stage
+est de proposer un *packaging* alternatif, reposant cette fois-ci sur le
+gestionnaire de paquet Nix. Idéalement, nous pourrions aussi voir
+comment brancher GlitchTip sur des systèmes d'authentification unique
+(SSO) classiques comme [LemonLDAP](https://lemonldap-ng.org/welcome/), ainsi qu'ajouter des tutoriels en
+français.  Le ministère porteur de la contribution a déjà un agent
+public qui contribue à GlitchTip, facilitant ainsi le lien avec le
+projet et l'intégration des contributions.
+
+
+# Spoon
+
+**Site du logiciel** : [spoon.gforge.inria.fr](https://spoon.gforge.inria.fr)
+
+**Son code source** : [github.com/INRIA/spoon](https://github.com/INRIA/spoon)
+
+**Langages de programmation** : Java.
+
+**Ministère utilisateur et porteur de la contribution** : Ministère de
+l'Enseignement supérieur, de la Recherche et de l'Innovation.
+
+**Description du logiciel et de son usage dans l'administration** : Spoon
+est un logiciel largement utilisé pour des travaux de recherche sur
+l'analyse de code source Java notamment pour la correction automatisée
+de bugs et la réparation automatisée de programmes.  À ce jour, au
+moins 20 agents utilisent ce logiciel et une dizaine y contribue.
+
+**Idée de contribution** : Le but du stage serait de se plonger dans le
+logiciel, accompagné par l'équipe de contributeurs actuels, pour voir
+quelles idées pourraient être implémentées par l'étudiant.  Il existe
+de nombreuses idées de contributions (répertoriées dans les [issues](https://github.com/INRIA/spoon/issues)).
+
+Ces évolutions renforceront la recherche et l'innovation qui sont
+menées au sein des équipes de recherche de l'Institut National de la
+Recherche en Informatique et Automatique (Inria) autour de la
+correction automatisée de bugs et la réparation automatisée de
+programmes.
+
+
+# Esup-Pod
+
+**Site du logiciel** : [www.esup-portail.org](https://www.esup-portail.org/wiki/display/ES)
+
+**Son code source** : [github.com/EsupPortail/Esup-Pod](https://github.com/EsupPortail/Esup-Pod)
+
+**Langages de programmation** : Python.
+
+**Ministère utilisateur et porteur de la contribution** : Université de
+Lille, ministère de l'Enseignement, de la Recherche et de
+l'Innovation.
+
+**Description du logiciel et de son usage dans l'administration** :
+Esup-Pod est une solution d'hébergement et de diffusion de vidéos de
+cours, de vidéos institutionnelles et de recherche.  Il y a à ce jour
+42 établissements de l'ESR qui ont une instance de Pod mais également
+des académies et des ministères.
+
+**Idée de contribution** : L'étudiant sera au contact direct de l'équipe
+qui développe le projet.  Une idée de contribution serait de coupler
+la solution de diffusion Esup-pod à une autre solution libre de
+webconférence, BigBlueButton.  Pour cela, on aimerait étudier le
+protocole LTI pour permettre de récupérer les enregistrements de BBB
+et les héberger sur Pod, mais également de permettre de diffuser en
+direct les webconférences de BBB sur Pod et faire des webinaires.
+L'ensemble permettrait à chaque établissement d'avoir une solution de
+webinaire en interne, facile à installer et à utiliser.
+
+
+# Unitex/GramLab
+
+**Site du logiciel** : [unitexgramlab.org](https://unitexgramlab.org/fr)
+
+**Son code source** : [github.com/UnitexGramLab](https://github.com/UnitexGramLab/) - voir aussi [cette page](https://unitexgramlab.org/fr/how-to-contribute)
+pour des explications sur les façons de contribuer.
+
+**Langages de programmation** :
+
+**Ministère utilisateur et porteur de la contribution** : Ministère de
+l'Enseignement supérieur, de la Recherche et de l'Innovation.
+
+**Description du logiciel et de son usage dans l'administration** :
+Unitex/GramLab est utilisé par des laboratoires de recherche pour
+explorer et exploiter des corpus de textes dans des projets de
+recherche en linguistique et en traitement des langues naturelles.  Il
+est compatible avec de nombreuses langues.  Il est utilisé aujourd'hui
+par de nombreux étudiants et un agent public y contribue
+régulièrement.
+
+**Idée de contribution** : Le champ est libre - il peut s'agir d'ajout de
+fonctionnalités, de correction de bugs, d'amélioration de l'interface
+ou de toute autre idée discutée avec l'équipe de développement.
+
+
+# À préciser
+
+
+## Platform manager
+
+**Site du logiciel** : 
+
+**Son code source** : [gitlab.inria.fr/sisr/pfmanager](https://gitlab.inria.fr/sisr/pfmanager)
+
+**Langages de programmation** : PHP
+
+**Ministère utilisateur et porteur de la contribution** : MESRI/CNRS
+
+**Description du logiciel et de son usage dans l'administration** : Au
+sein du laboratoire Loria (UMR 7503 CNRS / Inria / Université de
+Lorraine), nous utilisons plusieurs plateformes en soutien de la
+recherche. Nous avons créé l’outil 'Platform manager' pour nous aider
+à gérer ces installations: projets en cours, équipements, utilisateurs
+
+**Idée de contribution** : L'objectif du stage sera d'apporter deux
+fonctionnalités à ce logiciel pour 1) l'ajout d'un module de
+réservation d'équipement avec calendrier, 2) la génération automatique
+de pages wiki Gitlab par projet.
+
+
+## GDL : gnudatalanguage
+
+**Site du logiciel** : 
+
+**Son code source** : [github.com/gnudatalanguage/gdl](https://github.com/gnudatalanguage/gdl)
+
+**Langages de programmation** :
+
+**Ministère utilisateur et porteur de la contribution** : 
+
+**Description du logiciel et de son usage dans l'administration** : GDL
+est un clone libre d'un logiciel propriétaire payant largement utilisé
+en astronomie professionnel.  Il existe un très grand nombre de codes
+(pipelines de traitement de données d'instruments sol ou spatiaux)
+basés sur ce langage.  Ce langage présente des avantages techniques
+évidents par rapport à Python, notamment : simplicité, efficacité
+numérique, librairies métier dédiées et largement testées.
+
+**Idée de contribution** : 
+
+
+## GlitchTip
 
 **Site du logiciel** : [glitchtip.com](https://glitchtip.com/)
 
@@ -184,14 +346,14 @@ un meilleur suivi des déploiements et des bugs.
 **Idée de contribution** : Aujourd'hui, GlitchTip est déployable avec
 Docker.  Le but du stage serait d'explorer d'autres façons de déployer
 GlitchTip, par exemple avec NixOS.  Idéalement, nous pourrions aussi
-voir comment brancher GlitchTip sur des SSO classiques comme
-LemonLDAP, ainsi qu'ajouter des tutoriels en français.  Le ministère
+voir comment brancher GlitchTip sur des systèmes d'authentification unique (SSO) classiques comme
+[LemonLDAP](https://lemonldap-ng.org/welcome/), ainsi qu'ajouter des tutoriels en français.  Le ministère
 porteur de la contribution a déjà un agent public qui contribue à
 GlitchTip, facilitant ainsi le lien avec le projet et l'intégration
 des contributions.
 
 
-# Sentry
+## Sentry
 
 **Site du logiciel** : [sentry.io](https://sentry.io)
 
@@ -219,29 +381,27 @@ Un *repackaging* "administration publique" de cet outil, incluant une
 dé-dockerisation serait très utile pour les ministères régaliens.
 
 
-# À préciser
+## Openboard
 
+**Site du logiciel** : [openboard.ch](https://openboard.ch/)
 
-## Platform manager
+**Son code source** : [github.com/OpenBoard-org/OpenBoard](https://github.com/OpenBoard-org/OpenBoard)
 
-**Site du logiciel** : 
+**Langages de programmation** : C++/Qt
 
-**Son code source** : [pfmanager.loria.fr](https://pfmanager.loria.fr)
+[<img src="images/openboard.jpg" height="300">](images/openboard.jpg)
 
-**Langages de programmation** : 
+**Ministère utilisateur et porteur de la contribution** : Ministère de l'éducation nationale
 
-**Ministère utilisateur et porteur de la contribution** : MESRI/CNRS
+**Description du logiciel et de son usage dans l'administration** :
 
-**Description du logiciel et de son usage dans l'administration** : Au
-sein du laboratoire Loria (UMR 7503 CNRS / Inria / Université de
-Lorraine), nous utilisons plusieurs plateformes en soutien de la
-recherche. Nous avons créé l’outil 'Platform manager' pour nous aider
-à gérer ces installations: projets en cours, équipements, utilisateurs
+Le logiciel openboard est plutôt orienté pour le primaire actuellement. 
 
-**Idée de contribution** : L'objectif du stage sera d'apporter deux
-fonctionnalités à ce logiciel pour 1) l'ajout d'un module de
-réservation d'équipement avec calendrier, 2) la génération automatique
-de pages wiki Gitlab par projet.
+**Idée de contribution** : 
+
+Intégrer un object formule mathématique utilisant la syntaxe LaTex pour faciliter l'utilisation du logiciel dans le secondaire et le supérieur.
+
+**A discuter** : le logiciel xournal++ que le demandeur mentionne semble bien répondre au problème. Openboard ne semble plus tellement maintenu (beaucoup de PR, dernier commit il y a 7 mois) contrairement à xournal++ qui donc dispose de la fonctionnalité et dont la communauté est plus active. 
 
 
 ## Libre office : Writer, Calc et Impress
@@ -257,92 +417,6 @@ de pages wiki Gitlab par projet.
 **Description du logiciel et de son usage dans l'administration** :
 
 **Idée de contribution** : 
-
-
-## Openboard
-
-**Site du logiciel** :
-
-**Son code source** :
-
-**Langages de programmation** :
-
-**Ministère utilisateur et porteur de la contribution** : 
-
-**Description du logiciel et de son usage dans l'administration** :
-
-**Idée de contribution** : 
-
-
-## Spoon
-
-**Site du logiciel** :
-
-**Son code source** :
-
-**Langages de programmation** :
-
-**Ministère utilisateur et porteur de la contribution** : 
-
-**Description du logiciel et de son usage dans l'administration** :
-
-**Idée de contribution** : 
-
-
-## Esup-Pod
-
-**Site du logiciel** : [www.esup-portail.org](https://www.esup-portail.org/wiki/display/ES)
-
-**Son code source** : [github.com/EsupPortail/Esup-Pod](https://github.com/EsupPortail/Esup-Pod)
-
-**Langages de programmation** :
-
-**Ministère utilisateur et porteur de la contribution** : Université de
-Lille.
-
-**Description du logiciel et de son usage dans l'administration** : 
-
-**Idée de contribution** : 
-
-
-## GDL : gnudatalanguage
-
-**Site du logiciel** :
-
-**Son code source** :
-
-**Langages de programmation** :
-
-**Ministère utilisateur et porteur de la contribution** : 
-
-**Description du logiciel et de son usage dans l'administration** :
-
-**Idée de contribution** : 
-
-
-## Unitex/GramLab
-
-**Site du logiciel** : [unitexgramlab.org](https://unitexgramlab.org/fr)
-
-**Son code source** : [github.com/UnitexGramLab](https://github.com/UnitexGramLab/) - voir aussi [cette page](https://unitexgramlab.org/fr/how-to-contribute)
-pour des explications sur les façons de contribuer.
-
-**Langages de programmation** :
-
-**Ministère utilisateur et porteur de la contribution** : Ministère de
-l'Enseignement supérieur, de la Recherche et de l'Innovation.
-
-**Description du logiciel et de son usage dans l'administration** :
-Unitex/GramLab est utilisé par des laboratoires de recherche pour
-explorer et exploiter des corpus de textes dans des projets de
-recherche en linguistique et en traitement des langues naturelles.  Il
-est compatible avec de nombreuses langues.  Il est utilisé aujourd'hui
-par de nombreux étudiants et un agent public y contribue
-régulièrement.
-
-**Idée de contribution** : Le champ est libre - il peut s'agir d'ajout de
-fonctionnalités, de correction de bugs, d'amélioration de l'interface
-ou de toute autre idée discutée avec l'équipe de développement.
 
 
 ## ElabFTW
