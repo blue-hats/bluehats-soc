@@ -1,23 +1,32 @@
+# BlueHats Semester of Code
+
+    Des stages pour contribuer à des logiciels libres utilisés par l'administration publique.
+
+## Présentation
+
 Ce dépôt collecte des idées de contributions à des logiciels libres
 utilisés dans le service public, contributions qui seront faites par
 six élèves ingénieurs de Centrale-Supélec entre mars et août 2022.
 
 Si vous êtes élève et avez des questions, n'hésitez pas à écrire à la
-liste de discussion [bluehats-soc@groupes.renater.fr](mailto:bluehats-soc@groupes.renater.fr).
+liste de discussion
+[bluehats-soc@groupes.renater.fr](mailto:bluehats-soc@groupes.renater.fr).
 
-Si vous avez des questions à poser à [Etalab](https://www.etalab.gouv.fr/) sur ce programme, vous
-pouvez écrire au pôle logiciels libres : [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+Si vous avez des questions à poser à [Etalab](https://www.etalab.gouv.fr/) sur ce programme, vous pouvez écrire au pôle logiciels libres : [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
-Nous visons 12 défis à proposer aux étudiants qui candidateront et
-passeront devant un jury début décembre 2021 et nous choisiront les 6
-meilleures candidatures.
+Nous visons une dizaine de défis à proposer aux étudiants et
+étudiantes qui candidateront.  Ils et elles passeront devant un jury
+le 2 décembre 2021 après-midi et nous choisiront les 6 meilleures
+candidatures.
 
+## Propositions
 
-# Propositions
-
-Vous trouverez les propositions (en cours de rédaction) [sur cette
+Retrouverez les propositions de stages contributifs [sur cette
 page](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md).
 
+## Qu'est-ce que BlueHats 🧢 ?
+
+Voir la page de présentation BlueHats sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/bluehats/).
 
 # Licence
 
