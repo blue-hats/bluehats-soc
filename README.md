@@ -2,6 +2,8 @@
 
     Des stages pour contribuer à des logiciels libres utilisés par l'administration publique.
 
+![Image communauté BlueHats](https://communs.numerique.gouv.fr/img/bluehats-communaute.jpg)
+
 ## Présentation
 
 Ce dépôt collecte des idées de contributions à des logiciels libres
