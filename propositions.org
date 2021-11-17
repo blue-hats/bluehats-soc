@@ -8,7 +8,7 @@
 
 *Langages de programmation* : TypeScript, Javascript.
 
-#+markdown: [<img src="images/peertube.png" width="400" height="300">](images/peertube.png)
+#+markdown: [<img style="float:right" src="images/peertube.png" width="400" height="300">](images/peertube.png)
 
 *Ministère utilisateur et porteur de la contribution* : Ministère de
 l'Éducation nationale, de la Jeunesse et des Sports.
