@@ -234,6 +234,9 @@ Le logiciel openboard est plutôt orienté pour le primaire actuellement.
 *Idée de contribution* : 
 
 Intégrer un object formule mathématique utilisant la syntaxe LaTex pour faciliter l'utilisation du logiciel dans le secondaire et le supérieur.
+
+*A discuter* : le logiciel xournal++ que le demandeur mentionne semble bien répondre au problème. Openboard ne semble plus tellement maintenu (beaucoup de PR, dernier commit il y a 7 mois) contrairement à xournal++ qui donc dispose de la fonctionnalité et dont la communauté est plus active. 
+
 ** Platform manager
 
 *Site du logiciel* : 
