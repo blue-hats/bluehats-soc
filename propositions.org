@@ -179,8 +179,8 @@ un meilleur suivi des déploiements et des bugs.
 *Idée de contribution* : Aujourd'hui, GlitchTip est déployable avec
 Docker.  Le but du stage serait d'explorer d'autres façons de déployer
 GlitchTip, par exemple avec NixOS.  Idéalement, nous pourrions aussi
-voir comment brancher GlitchTip sur des SSO classiques comme
-LemonLDAP, ainsi qu'ajouter des tutoriels en français.  Le ministère
+voir comment brancher GlitchTip sur des systèmes d'authentification unique (SSO) classiques comme
+[[https://lemonldap-ng.org/welcome/][LemonLDAP]], ainsi qu'ajouter des tutoriels en français.  Le ministère
 porteur de la contribution a déjà un agent public qui contribue à
 GlitchTip, facilitant ainsi le lien avec le projet et l'intégration
 des contributions.
