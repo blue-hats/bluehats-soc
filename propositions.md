@@ -277,3 +277,35 @@ régulièrement.
 fonctionnalités, de correction de bugs, d'amélioration de l'interface
 ou de toute autre idée discutée avec l'équipe de développement.
 
+## GDL (gnudatalanguage)
+
+**Site du logiciel** : [github.com/gnudatalanguage/gdl](https://github.com/gnudatalanguage/gdl)
+
+**Son code source** : [github.com/gnudatalanguage/gdl](https://github.com/gnudatalanguage/gdl)
+
+**Langages de programmation** : C++
+
+**Ministère utilisateur et porteur de la contribution** : Ministère de
+l'Enseignement supérieur, de la Recherche et de l'Innovation.
+
+**Description du logiciel et de son usage dans l'administration** : GDL
+est un clone libre d'un logiciel propriétaire payant largement utilisé
+en astronomie professionnel.  Il existe un très grand nombre de codes
+(pipelines de traitement de données d'instruments sol ou spatiaux)
+basés sur ce langage.  Ce langage présente des avantages techniques
+évidents par rapport à Python, notamment : simplicité, efficacité
+numérique, librairies métier dédiées et largement testées.
+
+**Idées de contribution** : 
+
+-   corriger des bugs connus ;
+-   augmenter la couverture des tests (codecov à ~40% aujourd'hui) ;
+-   ajouter des fonctionnalités demandées par les utilisateurs ;
+-   améliorer les performances de l'interpréteur ;
+
+Ce logiciel est idéal comme cadre pour des stagiaires, car il est
+hautement modulaire et utilise les approches actuelles de code
+(programation agile, hébergé sous github, tickets, codecov, c++,
+cmake, etc.) Les stagiaires sont donc plus ou moins obligés
+d'approcher tous ces aspects, ce qui est très formateur.  Les codes
+créés sont publiés (et non pas perdus).
