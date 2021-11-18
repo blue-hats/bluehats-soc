@@ -308,9 +308,13 @@ par de nombreux étudiants et un agent public y contribue
 régulièrement.
 
 **Idées de contribution** :
+Le stagiaire pourra discuter d'idées de contribution avec l'équipe
+qui développe Unitex/GramLab, par exemple :
 
 -   corriger des bugs connus ;
+
 -   ajouter des fonctionnalités demandées par les utilisateurs ;
+
 -   améliorer l'interface.
 
-
+Le dépôt GitHub du projet documente plusieurs idées de ce type.
