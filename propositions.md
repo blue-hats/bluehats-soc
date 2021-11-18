@@ -101,7 +101,7 @@ pour des explications sur les façons de contribuer.
 
 **Langages de programmation** : Java.
 
-[<img src="images/jabref.png" height="300">](images/peertube.png)
+[<img src="images/jabref.png" height="300">](images/jabref.png)
 
 **Ministère utilisateur et porteur de la contribution** : Ministère de
 l’Enseignement supérieur, de la Recherche et de l’Innovation.
@@ -147,7 +147,7 @@ vos développements*.
 
 **Langages de programmation** : HTML, PHP.
 
-[<img src="images/mercator.png" height="300">](images/peertube.png)
+[<img src="images/mercator.png" height="300">](images/mercator.png)
 
 **Ministère utilisateur et porteur de la contribution** : Direction
 générale de l'Aviation civile, Direction technique de l'innovation.
@@ -212,8 +212,9 @@ lien avec le projet et l'intégration des contributions.
 
 [<img src="images/peertube.png" height="300">](images/peertube.png)
 
-**Ministère utilisateur et porteur de la contribution** : Ministère de
-l'Éducation nationale, de la Jeunesse et des Sports.
+**Ministère utilisateur et porteur de la contribution** : Direction
+générale de l'Administration et de la Fonction publique et ministère
+de l'Éducation nationale, de la Jeunesse et des Sports.
 
 **Description du logiciel et de son usage dans l'administration** :
 Peertube est une plateforme de publication de vidéos en ligne.  Cette
@@ -268,7 +269,7 @@ pour des explications sur les façons de contribuer.
 
 **Langages de programmation** : C++, Javascript.
 
-[<img src="images/thunderbird.png" height="300">](images/peertube.png)
+[<img src="images/thunderbird.png" height="300">](images/thunderbird.png)
 
 **Ministère utilisateur et porteur de la contribution** : Ministère de
 l'Éducation nationale, de la Jeunesse et des Sports et ministère de
