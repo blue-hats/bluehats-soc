@@ -178,9 +178,7 @@ la sécurité des systèmes d'information (ANSSI) en matière de
 
 [<img src="images/nix.png" height="300">](images/nix.png)
 
-**Ministères utilisateurs et porteurs de la demande** : Ministère de la
-justice et Ministère de l'Économie, des Finances et de la Relance,
-pôle d'expertise et de régulation numérique - [PEReN](https://www.peren.gouv.fr/).
+**Ministères utilisateurs et porteurs de la demande** : Pôle d'Expertise de la Régulation Numérique - [PEReN](https://www.peren.gouv.fr/).
 
 **Description du logiciel et de son besoin dans l'administration** :
 Les deux ministères demandeurs ont besoin de faire tourner des
