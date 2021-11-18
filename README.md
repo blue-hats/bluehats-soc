@@ -1,28 +1,38 @@
-# BlueHats Semester of Code
+# 🧢 BlueHats Semester of Code 
 
     Des stages pour contribuer à des logiciels libres utilisés par l'administration publique.
 
 ![Image communauté BlueHats](https://communs.numerique.gouv.fr/img/bluehats-communaute.jpg)
 
-## Présentation
+## Présentation 
 
-Ce dépôt collecte des idées de contributions à des logiciels libres
-utilisés dans le service public, contributions qui seront faites par
-six élèves ingénieurs de CentraleSupélec entre mars et août 2022.
+`BlueHats Semester of Code` est un programme de stage de 6 mois
+permettant de contribuer à des logiciels libres utilisés dans les
+administrations.  Il est destiné aux étudiants de CentraleSupélec 
+de 2ème année en césure.
+
+Ce programme est le fruit d'un partenariat entre l'école
+CentraleSupélec et la direction interministérielle du numérique, qui
+contribue au mouvement BlueHats dans le cadre du plan d'action
+logiciels libres et communs numériques de l'Etat. Les élèves
+stagiaires auront la possibilité d'être accueillis sur place à la
+DINUM (20 avenue de Ségur, 75007, Paris.)
+
+## Candidatez d'ici le 2 décembre 23h59
+
+Pour candidater à ces stages **d'ici le 2 décembre 23h59**, veuillez
+remplir [ce
+formulaire](https://framaforms.org/candidature-bluehats-semester-of-code-1636128829).
+
+## Des questions ?
 
 Si vous êtes élève et avez des questions, n'hésitez pas à écrire à la
 liste de discussion
 [bluehats-soc@groupes.renater.fr](mailto:bluehats-soc@groupes.renater.fr).
 
-Si vous avez des questions à poser à [Etalab](https://www.etalab.gouv.fr/) sur ce programme, vous pouvez écrire au pôle logiciels libres : [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
+## Propositions de stage
 
-Nous visons une dizaine de défis à proposer aux élèves qui candidateront.  Ils et elles passeront devant un jury
-le 2 décembre 2021 après-midi et nous choisirons les 6 meilleures
-candidatures.
-
-## Propositions
-
-Retrouverez les propositions de stages contributifs [sur cette
+Retrouverez toutes les propositions de stages contributifs [sur une seule
 page](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md).
 
 - [Assistant RGAA : améliorer l'accessibilité des sites web](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#assistant-rgaa--am%C3%A9liorer-laccessibilit%C3%A9-des-sites-web)
@@ -38,12 +48,14 @@ page](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md).
 
 ## Qu'est-ce que BlueHats 🧢 ?
 
-Voir la page de présentation BlueHats sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/bluehats/).
+Pour en savoir plus sur le mouvement BlueHats, voir la page de
+présentation BlueHats sur
+[communs.numerique.gouv.fr](https://communs.numerique.gouv.fr/bluehats/).
 
 # Licence
 
 Ce dépôt est une publication de la direction interministérielle du
-numérique ([DINUM](https://www.numerique.gouv.fr/)), 20 avenue de Ségur, 75019, publié sous [licence
-Ouverte 2.0](LICENSE.txt).  En contribuant à ce dépôt, vous acceptez les termes de
-cette licence.
+numérique ([DINUM](https://www.numerique.gouv.fr/)), 20 avenue de
+Ségur, 75019, publié sous [licence Ouverte 2.0](LICENSE.txt).  En
+contribuant à ce dépôt, vous acceptez les termes de cette licence.
 
