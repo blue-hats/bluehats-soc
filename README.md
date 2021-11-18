@@ -8,7 +8,7 @@
 
 Ce dépôt collecte des idées de contributions à des logiciels libres
 utilisés dans le service public, contributions qui seront faites par
-six élèves ingénieurs de Centrale-Supélec entre mars et août 2022.
+six élèves ingénieurs de CentraleSupélec entre mars et août 2022.
 
 Si vous êtes élève et avez des questions, n'hésitez pas à écrire à la
 liste de discussion
@@ -16,9 +16,8 @@ liste de discussion
 
 Si vous avez des questions à poser à [Etalab](https://www.etalab.gouv.fr/) sur ce programme, vous pouvez écrire au pôle logiciels libres : [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr).
 
-Nous visons une dizaine de défis à proposer aux étudiants et
-étudiantes qui candidateront.  Ils et elles passeront devant un jury
-le 2 décembre 2021 après-midi et nous choisiront les 6 meilleures
+Nous visons une dizaine de défis à proposer aux élèves qui candidateront.  Ils et elles passeront devant un jury
+le 2 décembre 2021 après-midi et nous choisirons les 6 meilleures
 candidatures.
 
 ## Propositions
