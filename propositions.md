@@ -294,7 +294,7 @@ email par jour pour me dire que le mail attendu n'est pas arrivé ? »
 **Son code source** : [github.com/UnitexGramLab](https://github.com/UnitexGramLab/) - voir aussi [cette page](https://unitexgramlab.org/fr/how-to-contribute)
 pour des explications sur les façons de contribuer.
 
-**Langages de programmation** :
+**Langages de programmation** :  Java ou C++.
 
 **Ministère utilisateur et porteur de la contribution** : Ministère de
 l'Enseignement supérieur, de la Recherche et de l'Innovation.
@@ -307,8 +307,14 @@ est compatible avec de nombreuses langues.  Il est utilisé aujourd'hui
 par de nombreux étudiants et un agent public y contribue
 régulièrement.
 
-**Idée de contribution** : Le champ est libre - il peut s'agir d'ajout
-de fonctionnalités, de correction de bugs, d'amélioration de
-l'interface ou de toute autre idée discutée avec l'équipe de
-développement.
+**Idées de contribution** :
+Le stagiaire pourra discuter d'idées de contribution avec l'équipe
+qui développe Unitex/GramLab, par exemple :
 
+-   corriger des bugs connus ;
+
+-   ajouter des fonctionnalités demandées par les utilisateurs ;
+
+-   améliorer l'interface.
+
+Le dépôt GitHub du projet documente plusieurs idées de ce type.
