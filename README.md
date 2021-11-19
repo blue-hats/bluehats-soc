@@ -36,6 +36,7 @@ Retrouverez toutes les propositions de stages contributifs [sur une seule
 page](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md).
 
 - [Assistant RGAA : améliorer l'accessibilité des sites web](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#assistant-rgaa--am%C3%A9liorer-laccessibilit%C3%A9-des-sites-web)
+- [ElabFTW : améliorer un cahier de laboratoire électronique](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#elabftw--am%C3%A9liorer-un-cahier-de-laboratoire-%C3%A9lectronique)
 - [Esup-Pod : contribuer à une plateforme de diffusion de vidéos](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#esup-pod--contribuer-%C3%A0-une-plateforme-de-diffusion-de-vid%C3%A9os)
 - [GnuDataLanguage : s'immerger dans un logiciel pour l'astronomie professionnelle](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#gnudatalanguage--simmerger-dans-un-logiciel-pour-lastronomie-professionnelle)
 - [JabRef : contribuer à un logiciel de gestion bibliographique de premier plan](https://github.com/blue-hats/bluehats-soc/blob/main/propositions.md#jabref--contribuer-%C3%A0-un-logiciel-de-gestion-bibliographique-de-premier-plan)
