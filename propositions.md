@@ -36,14 +36,16 @@ Tool.
 
 **Son code source** : [github.com/elabftw/elabftw](https://github.com/elabftw/elabftw)
 
-**Langages de programmation** : PHP, Javascript, HTML.
+[<img src="images/elabftw.jpg" height="300">](images/elabftw.jpg)
+
+**Langages de programmation** : PHP, Javascript (typescript), HTML.
 
 **Ministère utilisateur et porteur de la contribution** : INRAE,
 ministère de l'Enseignement, de la Recherche et de l'Innovation.
 
 **Description du logiciel et de son usage dans l'administration** :
-Elabftw est cahier de laboratoire électronique, fait par et pour des
-chercheurs.  Il est utilisé dans plusieurs établissements publics en
+Elabftw est un cahier de laboratoire électronique, fait par et pour des
+chercheurs. Il est utilisé dans plusieurs établissements publics en
 France ainsi que des laboratoires Européens.
 
 **Idée de contribution** : L'objet du stage serait de travailler sur
