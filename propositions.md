@@ -191,6 +191,8 @@ logiciel libre conforme aux recommandations de l'Agence nationale de
 la sécurité des systèmes d'information (ANSSI) en matière de
 *configuration management database* (CMDB).
 
+Plus d'information sur ce [ticket](https://github.com/blue-hats/bluehats-soc/issues/3)
+
 ## Nix : faciliter le déploiement de sentry.io et de GlitchTip
 
 **Site du logiciel** : [nixos.org](https://nixos.org/)
