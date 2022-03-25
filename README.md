@@ -1,3 +1,5 @@
+**Ce dépôt est archivé : l'appel BSOC de l'automne 2021 n'a pas permis de mobiliser des étudiants sur ces projets.  Pour trouver des informations sur le programme BlueHats Semester of Code, veuillez vous référer à [cette page](https://man.sr.ht/~etalab/logiciels-libres/bluehats-semester-of-code.md).**
+
 # 🧢 BlueHats Semester of Code 
 
     Des stages pour contribuer à des logiciels libres utilisés par l'administration publique.
